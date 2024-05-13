@@ -4,6 +4,8 @@ Remove reliance on UCP hosted services
 
 ## Context
 
+The current universal connect widget relies on search and authentication APIs hosted by UCP. If these APIs go down, then we could cause an outage.
+
 We don't want customers to rely on the services we host to be able to run the universal connect widget. If any of our services are down, then we want customer widgets to continue functioning.
 
 ## Decision
