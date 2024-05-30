@@ -32,7 +32,7 @@ Institution Service - $75 - Standard 1x dyno, Standard 0 DB
 
 Demo app - $5 - Eco Dyno
 
-Total - $335
+Total - $335 monthly
 
 ## Decision
 
