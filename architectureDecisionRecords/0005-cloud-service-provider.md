@@ -25,8 +25,11 @@ Standard 2 - $200
 #### Total Cost Estimate
 
 Auth Service - $5 - Basic Dyno
+
 Performance Service - $250 - Standard 2x dyno, Standard 2 DB (This service might scale enough that we need to upgrade)
+
 Institution Service - $75 - Standard 1x dyno, Standard 0 DB
+
 Demo app - $5 - Eco Dyno
 
 Total - $335
