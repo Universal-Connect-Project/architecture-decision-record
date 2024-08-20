@@ -25,6 +25,15 @@ We prefer to use camel case for variable names
 
 `const testVariableName = "test"`
 
+### File naming
+React component files should be pascal case
+
+`TestComponent.tsx`
+
+Other files should be camel case
+
+`testUtils.ts`
+
 ## Consequences
 
 Developers have a source of truth when it comes to code style.
